@@ -1,0 +1,6 @@
+# Ignore sensitive files
+input/
+output/
+
+# Ignore Mac OS bullshit
+.DS_Store
